@@ -1,2 +1,2 @@
-#Welcom to my Profile
-##Sandra Rajeev
+# Welcome to my Profile
+## Sandra Rajeev
